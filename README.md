@@ -1,2 +1,2 @@
 # guvi
-mini project
+food waste management system
